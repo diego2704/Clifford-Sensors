@@ -1,0 +1,15 @@
+Instalar  git ne https://github.com/allenh1/rplidar -b ros2
+
+colcon build
+
+dar permisos al puerto con sudo chmod 666 /dev/ttyUSB0
+
+ejercutar ros2 lauch rplidar_ros rplidar.lauch.py
+
+Abrir en otra terminal rviz2
+
+se agrega LaserScan
+
+en el topic de coloca /scan
+
+en map se escribe laser
