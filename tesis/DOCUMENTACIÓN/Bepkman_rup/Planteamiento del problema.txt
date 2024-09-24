@@ -1,0 +1,41 @@
+En el ámbito de la robótica y la automatización, el desarrollo de plataformas cuadrúpedas se 
+presenta como un área de interés creciente debido a su capacidad para adaptarse a terrenos 
+variados y entornos complejos. A pesar de los avances en la aplicación de protocolos de 
+comunicación en sistemas robóticos, la integración eficiente de este sistema en una plataforma 
+cuadrúpeda plantea desafíos significativos. Un aspecto crucial es la necesidad de un sistema 
+robusto de propiocepción y extereocepción, que permita una percepción precisa de la posición, 
+movimiento y el entorno de la plataforma [4].
+
+Estas plataformas emplean una variedad de sensores. En el pasado, la conectividad directa era 
+suficiente cuando los sistemas tenían pocos sensores. Sin embargo, con los avances 
+tecnológicos, se requieren más sensores para diversas aplicaciones industriales. Esto ha llevado 
+a la necesidad de realizar múltiples conexiones aisladas, seguidas de una integración posterior, 
+lo que puede ocasionar problemas como la superposición de información y tiempos de 
+respuesta más largos. Por ello, se utilizan diferentes protocolos, como I2C, UART y el bus CAN, 
+para abordar estos desafíos y garantizar una comunicación eficiente y confiable entre los 
+sensores y la plataforma [3], Además, aunque existen otros protocolos como el Priority MAC 
+que pueden optimizar la priorización de paquetes de datos de manera efectiva para nodos de 
+alta prioridad en eventos de múltiples eventos en entornos industriales [2], su aplicación en 
+plataformas cuadrúpedas para garantizar baja latencia y confiabilidad para sensores críticos 
+puede requerir adaptaciones específicas que pueden complicar o reducir la eficacia de este 
+protocolo. 
+
+Este proyecto se centra en la implementación de una red integral de sensores en una plataforma 
+cuadrúpeda ya existente, utilizando el middleware ROS (del inglés, Robotics Operation System) 
+para facilitar la gestión y comunicación de los diversos sensores. Se explorará la aplicación de 
+visión computacional mediante cámaras para la detección de objetos, y el uso de sensores. La 
+combinación de estos elementos, gestionados a través de ROS, proporcionará a la plataforma 
+cuadrúpeda una capacidad avanzada para percibir su entorno.
+
+Al implementar esta red de sensores y mejorar la comunicación de datos, se abrirán perspectivas 
+para aplicaciones prácticas como la exploración en entornos complejos, la asistencia en 
+operaciones de búsqueda y rescate, y la mejora de la interacción humano-robot. Este estudio 
+contribuirá al avance para los investigadores en robótica, ingenieros de software especializados 
+en sistemas de control y percepción, fabricantes de plataformas robóticas, instituciones 
+académicas y organizaciones que utilizan plataformas cuadrúpedas en aplicaciones prácticas en 
+la implementación y optimización de plataformas cuadrúpedas autónomas, ampliando su 
+utilidad en diversas situaciones y contextos.
+
+¿Cómo puede realizarse la integración de diversos sensores en una plataforma cuadrúpeda 
+utilizando el middleware ROS para tener información interna y externa de la plataforma y su 
+entorno?
