@@ -1,0 +1,26 @@
+El desarrollo de una red de sensores para la plataforma robótica cuadrúpeda en la Universidad 
+Autónoma de Occidente constituye un importante avance en la robótica aplicada y la 
+investigación científica. Esta plataforma posibilitará la aplicación práctica y la expansión del 
+conocimiento teórico en robótica. Estudiantes e investigadores podrán experimentar con 
+conceptos y teorías avanzadas en un entorno controlado, promoviendo así la creación de nuevas 
+metodologías y enfoques en este campo multidisciplinario.
+
+En los beneficios sobre utilizar esta tecnología, se tienen diferentes artículos de investigación 
+donde usan la tecnología bio-inspirada para diferentes campos. Como en el trabajo de ETH 
+Zurich & ANYbotics un robot cuadrúpedo robusto y autónomo diseñado para tareas de 
+inspección y manipulación que utiliza sensores para escanear el terreno y evitar obstáculos [6]. 
+En otras investigaciones se tiene el robot ANYmal Gen D Un robot cuadrúpedo que Utilizando 
+sensores de alta resolución y tecnología de punta, ofrece información precisa datos en tiempo 
+real, cargados directamente al cliente a través de su API ANYmal [7].
+
+La implementación abordará la necesidad de saber el estado del robot con su entorno con 
+sensores de propiocepción y exterocepción. Este enfoque innovador contribuirá al desarrollo de 
+tecnologías avanzadas que pueden aplicarse en una amplia gama de entornos, desde la 
+exploración espacial hasta la atención médica y la agricultura de precisión. Además, permitirá 
+una mejor integración y comunicación entre los distintos sensores, optimizando la eficiencia y 
+fiabilidad de los datos recogidos. Esto no solo mejorará la capacidad del robot para adaptarse a 
+entornos cambiantes y complejos, sino que también facilitará su uso en aplicaciones críticas 
+donde la precisión y la rapidez en la toma de decisiones son esenciales. La implementación de 
+esta red de sensores robusta y eficiente potenciará las capacidades de la plataforma 
+cuadrúpeda, haciendo posible su utilización en tareas de búsqueda y rescate, vigilancia 
+ambiental, y operaciones industriales, aumentando así su versatilidad y funcionalidad.
