@@ -1,0 +1,13 @@
+1• Implementar la integración de sensores, utilizando ROS para la plataforma robótica 
+cuadrúpeda que facilite la configuración y la comunicación entre ellos, estimando así la 
+odometría y estado del robot facilitando la interacción humano-robot
+
+2• Aplicar protocolos y algoritmos para la comunicación industrial en la transmisión de 
+datos entre los diferentes sensores y la unidad de control central, mejorando la 
+coordinación y el procesamiento de la información. 
+
+3• Implementar una interfaz que facilite la visualización de los datos recopilados por la 
+plataforma
+
+4• Realizar pruebas para validar la eficacia y robustez del sistema de sensores en términos 
+de estabilidad, adaptabilidad y capacidad de respuesta
